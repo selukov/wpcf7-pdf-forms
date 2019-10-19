@@ -5,7 +5,7 @@ Requires at least: 4.3
 Tested up to: 5.2.3
 Requires PHP: 5.2
 Stable tag: trunk
-Version: 1.2.1
+Version: 1.3.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -49,8 +49,13 @@ Special thanks to the following sponsors of this plugin,
 
 == Changelog ==
 
-= 1.2.1 =
+= 1.3.1 =
 
+* Release date: September 29, 2019
+
+* try again
+* try again
+* try again
 * try again
 
 = 1.2.0 =
